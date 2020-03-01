@@ -1,21 +1,14 @@
 from periodictable import *
 
-Molecular_Weights = {
-                  "LiPF6":151.905,
-                  "NaPF6":167.954,
-                  "LiTFSI":287.075,
-                  "LiFSI":187.07,
-                  "LiNO3":68.946,
-                  }
+#Changes have been made to remove repeated functions
+#Due to funcitons contained in periodic table only chemical formula are needed
 
-Atomic_Weights = {
-                "H":H.mass,
-                "Li":Li.mass,
-                "Na":Na.mass,
-                "K":K.mass,
-                "C":C.mass,
-                "N":N.mass,
-                "O":O.mass,
-                "F":F.mass,
-                "S":S.mass,
-                }
+Chemical_formulas = {
+                    "LiFTSI":"LiC2F6NO4S2",
+                    "LiFSI":"LiC2F2NO4S2",
+                    "LiNO3":"LiNO3",
+                    "LiPF6":"LiPF6",
+                    "NaPF6":"NaPF6",
+                    "PYR14TFSI":"C11H20N2F6S2O4",
+                    "PYR12FSI":"C7H16F2N2O4S2",
+                    }
