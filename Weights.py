@@ -7,3 +7,7 @@ Molecular_Weights = {
                   "LiFSI":187.07,
                   "LiNO3":68.946
                   }
+
+Atomic_Weights = {
+                "H":H.mass
+                }
