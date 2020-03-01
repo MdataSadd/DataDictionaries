@@ -1,19 +1,9 @@
+from periodictable import *
+
 Molecular_Weights = {
                   "LiPF6":151.905,
                   "NaPF6":167.954,
                   "LiTFSI":287.075,
                   "LiFSI":187.07,
-                  "LiNO3":68.946,
-}
-
-Atom_Weights  = {
-              "H":1.008,
-              "Li":6.940,
-              "Na":22.990,
-              "K":39.098,
-              "C":12.011,
-              "N":14.007,
-              "O":15.999,
-              "F":18.998,
-              "S":32.065,
-}
+                  "LiNO3":68.946
+                  }
