@@ -13,4 +13,4 @@ Chemical_formulas = {
                     "PYR12FSI":"C7H16F2N2O4S2",
                     }
 # Examples of how to use code
-#print(formula(Chemical_formulas['LiTFSI']).mass)
+# print(formula(Chemical_formulas['LiTFSI']).mass)
