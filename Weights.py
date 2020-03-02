@@ -1,5 +1,3 @@
-from periodictable import *
-
 #Changes have been made to remove repeated functions
 #Due to funcitons contained in periodic table only chemical formula are needed
 
